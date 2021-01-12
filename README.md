@@ -1,5 +1,5 @@
 ## BREVITY-portal-for-secure-assignment-submissions
-BREVITY is a portal designed for online assignment submission where the assignment goes through three security or validation checks which include the
+BREVITY is a portal designed for online assignment submission where the assignment goes through three security or validation checks which include the following
 
 **1.PLAGIARISM** CHECK Unicheck API
 
