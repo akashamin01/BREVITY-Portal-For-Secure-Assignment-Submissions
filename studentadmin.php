@@ -19,7 +19,7 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item active">
-        <a class="nav-link" href="studentadmin.php">Home </a>
+        <a class="nav-link" href="studentadmin.php">HOME </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="studentsubmit.php">Submit assignment </a>
@@ -28,7 +28,7 @@
         <a class="nav-link" href="studentassignmentstatus.php">view Assignment Status</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="index.php">Sign-OUT</a>
+        <a class="nav-link" href="index.php">SIGN-OUT</a>
       </li>
     </ul>
   </div>
